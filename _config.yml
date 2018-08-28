@@ -1,14 +1,14 @@
-title: Sé más que un blogger
-description:  Aprende a crear un blog.
+title: Un blog para frikis
+description:  Espero que disfrutes con este blog.
 permalink: ':title/'
 baseurl: "/" 
-url: "https://canvas2017.github.io" 
+url: "https:/Frikis.github.io" 
 site-twitter: 
 
 
-author: Sé más que un blogger  
+author: De mayor quiero ser friki  
 author-img: logo-pie.png  
-about-author: El taller Malagabyte Summer para aprender a crear un blog con jekyll y una página web con HTML5 y CSS3.
+about-author: Aqui los frikis dejamos nuestras diferencias atras y nos unimos como un megafriki.
 social-twitter: 
 social-facebook: 
 social-github: 
