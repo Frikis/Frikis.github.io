@@ -15,4 +15,4 @@ No nos olvidemos de este maravilloso juego, que se merece un gran espacio en el 
 2.Buscar y destruir: en este modo hay dos equipos, uno tiene que poner una bomba en uno de dos recursos enemigos y el otro tiene que intentar que no la pongan.<br>
 3.Terreno de juego: una pelota, dos equipos, un partido muy sucio. Esta modalidad consiste en coger una pelota y meterla en el area enemigo. Cuanto más cerca la metas más puntos te daran (tienes que estar tú cerca del area y soltar la pelota).
 
-<img src="/assets/img/to.jpg" width="960" alt="to"/>
+<img src="/assets/img/to.jpg" width="600" alt="to"/>
