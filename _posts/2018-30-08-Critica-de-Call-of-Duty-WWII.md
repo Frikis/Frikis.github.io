@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Crítica de Ark Survival Evolve
+title: Crítica de Call of Duty WWII
 date: 2018-08-29
 description: Las etiquetas de HTML básicas
 img: ark.jpg
