@@ -11,5 +11,6 @@ tags: [Chistes, Series y películas]
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PHy3xx5aqZE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 No nos olvidemos de este maravilloso juego, que se merece un gran espacio en el blog. Un juego de la segunda guerra mundial hacía falta en mmi colección.<br>El juego tiene muchos modo, pero solo voy a nombrar los tres mejores:<br>
-* d
-* d
+1.Contra todos: trata de que tienes que matar todo bicho viviente (humanos).
+2.Buscar y destruir: en este modo hay dos equipos, uno tiene que poner una bomba en uno de dos recursos enemigos y el otro tiene que intentar que no la pongan.
+3.Terreno de juego: una pelota, dos equipos, un partido muy sucio.
